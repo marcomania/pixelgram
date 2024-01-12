@@ -3,7 +3,7 @@ import React from 'react'
 
 function DashboardPage() {
   return (
-    <div><Button>Botoncito</Button></div>
+    <div><Button>Botoncito 1</Button></div>
   )
 }
 
